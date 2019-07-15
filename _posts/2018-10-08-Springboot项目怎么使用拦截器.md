@@ -1,15 +1,7 @@
 ---
 layout:     post
 title:      Springboot项目怎么使用拦截器
-subtitle:   拦截器的基本实现
 date:       2018-10-08
-author:     LY
-header-img: img/post-bg-debug.png
-catalog: true
-tags:
-    - 拦截器
-    - springboot
-    - spring
 ---
 
 > 在这里小小推荐下我的个人博客
